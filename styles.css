@@ -1,0 +1,24 @@
+/*Styles for index.html*/
+
+/*All items*/
+.body {
+    display: flex;
+    flex-direction: column;
+}
+
+/*Header*/
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*Header title and logo*/
+.lhead {
+
+}
+
+/*Header links*/
+.rhead {
+    display: flex;
+    gap: 8px;
+}
